@@ -1,0 +1,6 @@
+node_modules
+eslint-config-bluedrop-legacy-*.tgz
+npm-debug.log
+npm-debug.log*
+package-lock.json
+yarn.lock

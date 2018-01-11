@@ -1,0 +1,38 @@
+{
+  "name": "eslint-config-bluedrop-legacy",
+  "version": "0.0.1",
+  "description": "Rules for ES5-based projects",
+  "main": "config/style/format.js",
+  "files": [
+    "config",
+    "rules"
+  ],
+  "scripts": {
+    "start": "eslint .",
+    "test": "eslint . && test/lint.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoursePark/eslint-config-bluedrop-legacy.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "es5"
+  ],
+  "contributors": [
+    "Jared Abbott <jaredabbott@bluedrop.com>",
+    "Tim Oram <timoram@bluedrop.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoursePark/eslint-config-bluedrop-legacy/issues"
+  },
+  "homepage": "https://github.com/CoursePark/eslint-config-bluedrop-legacy#readme",
+  "dependencies": {},
+  "devDependencies": {
+      "eslint": "^4.13.1",
+      "eslint-plugin-disable": "^0.3.0",
+      "eslint-plugin-json": "^1.2.0"
+  }
+}
