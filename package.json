@@ -31,8 +31,8 @@
   "homepage": "https://github.com/CoursePark/eslint-config-bluedrop-legacy#readme",
   "dependencies": {},
   "devDependencies": {
-      "eslint": "^4.13.1",
-      "eslint-plugin-disable": "^0.3.0",
-      "eslint-plugin-json": "^1.2.0"
+    "eslint": "^4.13.1",
+    "eslint-plugin-disable": "^0.3.0",
+    "eslint-plugin-json": "^1.2.0"
   }
 }

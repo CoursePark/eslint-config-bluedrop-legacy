@@ -1,10 +1,10 @@
 
 module.exports = {
-	"env": {
-		"jasmine": true,
-		"browser": true,
-		"node": true,
-		"es6": true
+	env: {
+		jasmine: true,
+		browser: true,
+		node: true,
+		es6: true
 	},
 	parserOptions: {
 		ecmaVersion: 5,
@@ -13,12 +13,12 @@ module.exports = {
 			impliedStrict: true
 		}
 	},
-	"globals": {
-		"_": true,
-		"$": true,
-		"angular": true,
-		"confirm": true,
-		"io": true
+	globals: {
+		_: true,
+		$: true,
+		angular: true,
+		confirm: true,
+		io: true
 	},
 	plugins: [
 		'disable',
