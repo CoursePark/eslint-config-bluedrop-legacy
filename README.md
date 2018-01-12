@@ -8,7 +8,7 @@ This package provides Bluedrop's shared extensible ESLint config for legacy proj
 
 ## Setup
 
-- `npm install --save-dev eslint-config-bluedrop-legacy eslint-plugin-disable eslint-plugin-json eslint`
+- `npm install --save-dev CoursePark/eslint-config-bluedrop-legacy eslint-plugin-disable eslint-plugin-json eslint`
 
 ### `eslint-config-bluedrop-legacy/config/es5`
 
