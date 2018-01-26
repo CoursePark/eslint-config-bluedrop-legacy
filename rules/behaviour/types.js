@@ -1,4 +1,3 @@
-
 module.exports = {
 	rules: {
 		'no-extra-boolean-cast': 1,

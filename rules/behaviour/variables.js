@@ -1,4 +1,3 @@
-
 module.exports = {
 	rules: {
 		'block-scoped-var': 2,

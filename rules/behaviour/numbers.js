@@ -1,4 +1,3 @@
-
 module.exports = {
 	rules: {
 		'no-floating-decimal': 2,
